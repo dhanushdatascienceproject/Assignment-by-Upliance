@@ -1,0 +1,18 @@
+
+Business Recommendations:
+
+1. **Order Amount Prediction**:
+   - A linear regression model was trained to predict the order amount based on session duration, age, and meal type.
+   - The model achieved a Mean Squared Error (MSE) of 1.874902608517318, indicating the predictive accuracy of the model.
+   - **Business Insight**: Session duration, age, and meal preferences are important factors influencing the total amount spent.
+
+2. **Session Rating Prediction**:
+   - A linear regression model was also trained to predict session ratings using the same features.
+   - **Business Insight**: Customers' session ratings are influenced by meal type and session duration.
+
+3. **Business Recommendations**:
+   - **Target High-Value Customers**: Focus marketing efforts on customers with the highest total spending.
+   - **Optimize Session Durations**: Optimizing session durations can improve overall revenue.
+   - **Introduce Seasonal Promotions**: Identify trends in order volumes and introduce seasonal promotions to boost sales.
+   - **Focus Marketing Efforts on High-Volume Regions**: Target regions with higher order volumes for localized marketing campaigns.
+   - **Tailor Meal Offerings to Specific Age Groups**: Tailor offerings to age groups to increase customer satisfaction.
